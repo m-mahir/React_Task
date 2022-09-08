@@ -53,10 +53,6 @@ Please note that the component has the above data-testid attributes for test cas
 - Default Port: 8000
 
 
-**Read Only Files**
-- `src/App.test.js`
-
-
 **Commands**
 - run: 
 ```bash
